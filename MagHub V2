@@ -1,4 +1,4 @@
-The Library for it Got deleted so the script is gone :(
+--Copy and Paste Text Below
 
 
--- I AM MAKING A NEW ONE SOON TO REPLACE THE OLD ONE
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MagDevelopments/MagDevelopments/main/MagHubVerison2"))() 
