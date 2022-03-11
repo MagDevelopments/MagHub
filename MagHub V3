@@ -3,7 +3,7 @@
 --recommend getting KRNL 
 --https://krnl.ca
 
-loadstring(game:HttpGet("raw.githubusercontent.com/MagDevelopments/MagDevelopments/main/MagHubVersion3"))()  <-- ONLY COPY THIS
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MagDevelopments/MagDevelopments/main/MagHubVersion3"))()  <-- ONLY COPY THIS
 
 ___________________________________________________________________________________
 
